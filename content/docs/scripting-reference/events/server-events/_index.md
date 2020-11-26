@@ -26,6 +26,7 @@ OneSync events
 - [entityCreated](../list/entityCreated)
 - [entityCreating](../list/entityCreating)
 - [entityRemoved](../list/entityRemoved)
+- [clearPedTasksEvent](../list/clearPedTasksEvent)
 
 OneSync Bigmode/infinity events
 -----------
